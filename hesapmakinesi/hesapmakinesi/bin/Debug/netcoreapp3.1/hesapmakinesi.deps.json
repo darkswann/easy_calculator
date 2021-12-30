@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hesapmakinesi/1.0.0": {
+        "runtime": {
+          "hesapmakinesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hesapmakinesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
